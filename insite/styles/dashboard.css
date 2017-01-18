@@ -1,0 +1,9 @@
+.blog-addons .__edit, .blog-addons .__delete {
+	float: left;
+	cursor: pointer;
+	padding-left: 20px;
+}
+.blog-addons .__edit img, .blog-addons .__delete img {
+	width: 20px;
+	height: 20px;
+}
